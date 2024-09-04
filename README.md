@@ -1,6 +1,6 @@
 # Landing Page - Receita
 
-![alt text](image.png)
+![](./Captura%20de%20Tela%202024-09-04%20às%2016.40.46.png)
 ---
 ## Sobre
 Site do tipo landing Page para divulgar Marcas em forma de tabela.
